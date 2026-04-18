@@ -1,4 +1,4 @@
-== README
+# README
 
 # THE DOCKER VERSION IS IN THE docker TREE!
 
