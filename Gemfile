@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # ruby version
-ruby "2.2.1"
+ruby "3.4.7"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.10'
 #testing
